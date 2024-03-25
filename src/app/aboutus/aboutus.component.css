@@ -1,0 +1,17 @@
+.header-image {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.footer-image {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/* Optional: Add styles to images */
+.header-image img,
+.footer-image img {
+  max-width: 200px; /* Adjust as needed */
+}

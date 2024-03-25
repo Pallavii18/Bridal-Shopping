@@ -1,0 +1,76 @@
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container */
+.main {
+    background-color: rgb(189, 155, 166);
+    padding: 20px;
+}
+
+/* Checkout section */
+.checkout-section {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.checkout-accordion-wrap {
+    margin-bottom: 30px;
+}
+
+.billing-address-form input[type="text"],
+.billing-address-form input[type="email"],
+.billing-address-form input[type="tel"],
+.billing-address-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Order details */
+.order-details-wrap {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+.order-details th, .order-details td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.checkout-details {
+    font-weight: bold;
+}
+
+.checkout-details td:first-child {
+    text-align: right;
+}
+
+/* Footer section */
+.footer {
+    background-color: black;
+    padding: 20px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.footer_section {
+    text-align: center;
+}
+
+.boxed-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.boxed-btn:hover {
+    background-color: #555;
+}

@@ -1,0 +1,49 @@
+
+
+        /* Add your CSS styles here */
+        .footer-area {
+            background-color:black ;
+            padding: 50px 0;
+        }
+
+        .footer-box {
+            margin-bottom: 30px;
+        }
+
+        .footer-box h2 {
+            color:white;
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        .footer-box p,
+        .footer-box ul {
+            color: white;
+            font-size: 16px;
+            line-height: 1.8;
+        }
+
+        .footer-box a {
+            color: #007bff;
+        }
+
+        .social-icons ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .social-icons ul li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        .social-icons ul li a {
+            color: white;
+            font-size: 18px;
+        }
+       .copyright{
+    background-color: black;
+  }
+
+

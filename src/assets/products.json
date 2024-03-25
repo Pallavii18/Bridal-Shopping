@@ -1,0 +1,43 @@
+[
+    {
+        "imageUrl": "assets/images/j2.jpg",
+        "name":"Thushi",
+        "price":350
+    },
+    {
+        "imageUrl": "assets/images/R.jpeg",
+        "name":"Necklace",
+        "price":550  
+    },
+    {
+        "imageUrl": "assets/images/b4.jpg",
+        "name":"Bangles(chura)",
+        "price":500  
+    },
+    {
+        "imageUrl": "assets/images/j4.jpg",
+        "name":"Jhumka",
+        "price":150  
+    },
+    {
+        "imageUrl": "assets/images/j4.jpg",
+        "name":"Oranges",
+        "price":120  
+    },
+    {
+        "imageUrl": "assets/images/lehnga.png",
+        "name":"Lehanga",
+        "price":9500 
+    },
+    {
+        "imageUrl": "assets/images/b1.jpg",
+        "name":"Bride Blouse",
+        "price":1000 
+    },
+    {
+        "imageUrl": "assets/images/img8.jpg",
+        "name":"Lipstick",
+        "price":200  
+    }
+   
+]
